@@ -1,4 +1,4 @@
-<?php //test git
+<?php //test git 2
 
 namespace App\Http\Controllers;
 
